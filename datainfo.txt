@@ -5,7 +5,7 @@ _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/
  ====> inidom_XX.[ dat | wkt | asc ]
 
  < > : charm
-  !  : skip charm
+  #  : skip charm
 
 _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/
 
@@ -21,7 +21,7 @@ _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/  _/
 <DATAIN_IR>
 ../00-DATASET/ir/ir_
 
-! <DATAIN_DF>
+#<DATAIN_DF>
 ../00-DATASET/deform/Meijisanriku/deform_
 _Meijisanriku
 

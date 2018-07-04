@@ -40,7 +40,7 @@ open(10,file=infofile,status='old')
 
 do
   read(10,'(a1, a)',iostat=ioerr) dmmy01, dmmy02
-  if( dmmy01 == '!' )cycle
+  if( dmmy01 == '#' )cycle
   charm=trim(adjustl(dmmy01))//trim(adjustl(dmmy02))
 
   select case (charm)
