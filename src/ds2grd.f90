@@ -321,6 +321,8 @@ end do
 
 5000 format(i8,3f15.5, f15.5, i3, f15.5, i3, f15.5)
 
+write(6,*)'done.'
+
 end program main
 
 

@@ -29,15 +29,15 @@ _Meijisanriku
 出力制御
 ========
 <DATOUT>
-../datout/
+../GRID/dat/
 inidom_
 
 <ASCOUT>
-../ascout/
+../GRID/asc/
 inidom_
 
 <WKTOUT>
-../wktout/
+../GRID/wkt/
 area_
 
 
